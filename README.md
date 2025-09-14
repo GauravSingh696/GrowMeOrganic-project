@@ -3,9 +3,7 @@
 This project is a feature-rich data table built with React, TypeScript, and PrimeReact. It demonstrates advanced functionalities like server-side pagination and persistent row selection while displaying artwork data from the Art Institute of Chicago's public API.
 
 ---
-## 🚀 Live Demo
-
-**[Insert Your Deployed Netlify Link Here]**
+## 🚀 [[Live Demo](https://growmeorganicgaurav.netlify.app/)]
 
 ---
 ## ✨ Key Features
